@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<head>
+<title>Tablek</title>
+</head>
+<body>
+<table border="10px">
+<tr>
+<td>data baris 1 kolom 1</td>
+<td>data baris 1 kolom 2</td>
+</tr>
+<tr>
+<td colspan=2>baris 2 kolom 1</td>
+<tr>
+<tr>
+<td rowspan=2baris 3 kolom 1</td>
+<td>baris 3 kolom 2</td>
+</tr>
+</table>
+</body>
+</html>
